@@ -1,17 +1,49 @@
 [
   {
     "id": 1,
-    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "title": "JavaScript Tutorial",
     "price": 109.95,
     "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
     "category": "men's clothing",
     "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
   },
   {
-    "id": 1,
-    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "id": 2,
+    "title": "CSS Tutorial",
     "price": 109.95,
-    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "description": " css is Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://img.freepik.com/premium-photo/astronaut-travels-space-sitting-flying-missile-3d-illustration_151689-444.jpg?w=740"
+  },
+  {
+    "id": 3,
+    "title": "React Tutorial",
+    "price": 109.95,
+    "description": " css is Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://img.freepik.com/premium-photo/astronaut-travels-space-sitting-flying-missile-3d-illustration_151689-444.jpg?w=740"
+  },
+  {
+    "id": 4,
+    "title": "Express js Tutorial",
+    "price": 109.95,
+    "description": " css is Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://img.freepik.com/premium-photo/astronaut-travels-space-sitting-flying-missile-3d-illustration_151689-444.jpg?w=740"
+  },
+  {
+    "id": 5,
+    "title": "Python Tutorial",
+    "price": 109.95,
+    "description": " css is Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://img.freepik.com/premium-photo/astronaut-travels-space-sitting-flying-missile-3d-illustration_151689-444.jpg?w=740"
+  },
+  {
+    "id": 6,
+    "title": "Djengo Tutorial",
+    "price": 109.95,
+    "description": " css is Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
     "category": "men's clothing",
     "image": "https://img.freepik.com/premium-photo/astronaut-travels-space-sitting-flying-missile-3d-illustration_151689-444.jpg?w=740"
   }
