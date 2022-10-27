@@ -2,49 +2,48 @@
   {
     "id": 1,
     "title": "JavaScript Tutorial",
-    "price": 109.95,
-    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-    "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    "price": 3000,
+    "description": "JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
   },
   {
     "id": 2,
     "title": "CSS Tutorial",
-    "price": 109.95,
-    "description": " css is Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "price": 1500,
+    "description": " CSS helps Web developers create a uniform look across several pages of a Web site. Instead of defining the style of each table and each block of text within a page's HTML, commonly used styles need to be defined only once in a CSS document.",
     "category": "men's clothing",
-    "image": "https://img.freepik.com/premium-photo/astronaut-travels-space-sitting-flying-missile-3d-illustration_151689-444.jpg?w=740"
+    "image": "https://kariselovuo.pro/ksprov1/wp-content/uploads/2018/02/css-logo.png"
   },
   {
     "id": 3,
     "title": "React Tutorial",
-    "price": 109.95,
-    "description": " css is Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "price": 5000,
+    "description": " React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
     "category": "men's clothing",
-    "image": "https://img.freepik.com/premium-photo/astronaut-travels-space-sitting-flying-missile-3d-illustration_151689-444.jpg?w=740"
+    "image": "https://cdn.dribbble.com/users/14814/screenshots/16535574/reactlogo_4x.png"
   },
   {
     "id": 4,
     "title": "Express js Tutorial",
-    "price": 109.95,
-    "description": " css is Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "price": 4000,
+    "description": "ExpressJS is a web application framework that provides you with a simple API to build websites, web apps and back ends. With ExpressJS, you need not worry about low level protocols, processes, etc.",
     "category": "men's clothing",
-    "image": "https://img.freepik.com/premium-photo/astronaut-travels-space-sitting-flying-missile-3d-illustration_151689-444.jpg?w=740"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPpjAYY2G86wir9AIed1bm8zPNFgMQtrwnQ&usqp=CAU"
   },
   {
     "id": 5,
     "title": "Python Tutorial",
-    "price": 109.95,
-    "description": " css is Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "price": 2500,
+    "description": " Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn’t specialized for any specific problems.",
     "category": "men's clothing",
-    "image": "https://img.freepik.com/premium-photo/astronaut-travels-space-sitting-flying-missile-3d-illustration_151689-444.jpg?w=740"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMrR21NsREUbSquyZTRKr4gpcnixyoeONPLQ&usqp=CAU"
   },
   {
     "id": 6,
-    "title": "Djengo Tutorial",
-    "price": 109.95,
-    "description": " css is Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "title": "Django Tutorial",
+    "price": 3200,
+    "description": " Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel.",
     "category": "men's clothing",
-    "image": "https://img.freepik.com/premium-photo/astronaut-travels-space-sitting-flying-missile-3d-illustration_151689-444.jpg?w=740"
+    "image": "https://miro.medium.com/max/1200/1*slHeZngyeUr7ypEz7MNL5w.png"
   }
 ]
